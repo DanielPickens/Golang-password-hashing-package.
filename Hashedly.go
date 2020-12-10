@@ -1,6 +1,6 @@
 package hashedpassword
 
-import "github.com/elithrar/simple-scrypt"
+import "github.com/grabrar/simple-scrypt"
 
 type Params scrypt.Params
 
